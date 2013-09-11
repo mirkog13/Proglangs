@@ -1,0 +1,13 @@
+-0) Javascript kan brukes til å legge til dynamiske funksjoner på websider.
+
+-1) ID kan bare bli brukt for en gang f.eks. et paragraf. Class kan man bruke på flere elementer.
+
+-2) Deloppgave 0 lar deg enklere se alle de forskjellige elementene, men denne liste tar mer plass enn en dropdownliste og er ikke brukervennlig.
+    Deloppgave 1 er lettere å navigere og mange nettsider bruker denne form.
+
+-3) Wikipedia bruker flere lister med "ul" og "li" tags og bruker alfabetiske listene.
+    Dessuten har de brukt linker.
+
+-4) Div er et "blokk-element" slik kategori og "span" er en seksjon av en linje f. eks. textlinje
+
+

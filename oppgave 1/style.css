@@ -1,0 +1,50 @@
+body {	background-color: white;	
+		text-align: center;
+}	
+#menu {
+list-style-type:none;
+}
+li {color: blue;
+}
+li+li {color, blue;
+}
+li+li+li {color: blue;
+}
+li+li+li+li {color: red;
+}
+li+li+li+li+li {color: yellow;
+}
+li+li+li+li+li+li {color: yellow;
+}
+li+li+li+li+li+li+li {color: yellow;
+}
+li+li+li+li+li+li+li+li {color: yellow;
+}
+li+li+li+li+li+li+li+li+li {color: yellow;
+}
+li+li+li+li+li+li+li+li+li+li {color: green;
+}
+li+li+li+li+li+li+li+li+li+li+li {color: pink;
+}
+li+li+li+li+li+li+li+li+li+li+li+li {color: brown;
+}
+li+li+li+li+li+li+li+li+li+li+li+li+li {color: black;
+}
+li+li+li+li+li+li+li+li+li+li+li+li+li+li {color: darkblue;
+}
+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li{color: darkblue;
+}
+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li {color: darkred;
+}
+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li {color: #808080;
+}
+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li{color: #808080;
+}
+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li{color: #808080;
+}
+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li {color: orange;
+}
+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li{color: #d2b48c;
+}
+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li{color: #d2b48c;
+}
