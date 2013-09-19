@@ -1,0 +1,48 @@
+body {
+  padding-left: 11em;
+  padding-right:0.5em;
+  padding-top: 2em;
+  font-family: Georgia, "Times New Roman",
+        Times, serif;
+  color: black;
+  background-color:#FFFE73 ;
+}
+ul.navbar { /* Definerer navigasjons baren */
+  list-style-type: none; 
+  padding: 0;
+  margin: 0;
+  position: absolute; /* Posisjonen er absolutt, den flytter seg ikke. */
+  top: 2em; 
+  left: 1em; 
+  width: 9em } 
+h1 {
+  font-family: Helvetica, Geneva, Arial,
+        SunSans-Regular, sans-serif } /* Font for h1 */
+ul.navbar li { /* Definerer liste i navigasjonsbaren */
+  background: #FFFD00; 
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-right: 1em solid blue} /
+ul.navbar a { /* Definerer navbar a */
+  text-decoration: none }
+a:link { /* definerer linkene i navbaren */
+  color: 260672 } 
+a:visited { /* Definerer linker du har besøkt */
+  color: 7247D7 } 
+address { /* Definerer "linja */
+  margin-top: 1em; 
+  padding-top: 1em; 
+  border-top: thin dotted } /* Hvordan linja ser ut */
+  
+  ul { /* Lista med programmeringsspråk */
+    list-style:square; /* Type */
+    padding:0; 
+    margin:0;
+    text-align:center; 
+    list-style-position: inside; /* Flytter markeringene inntil teksten i lista */
+}
+h1 {
+    font-size:30px;
+    font-family:"Arial;
+    text-align:center;
+}
