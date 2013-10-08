@@ -1,0 +1,12 @@
+0)
+
+ jQuery er kompatibelt med de fleste nettlesere og kodene blir enklere og tar mindre plass. 
+
+1)
+
+HTML/CSS er bedre å lettere å bruke når det kommer til rendring av skrift type og tekst med html tags.
+Canvas er mer lettvektig når grafikk skal fremstilles, siden den ikke må tolke HTML innhold og struktur. 
+
+2)
+Canvas er best egnet for presentasjonsmåter hvor man kan bruke interaksjonsmetodene.Dessuten kan HTML5 Canvas best grafisk representerer
+piksel modellen. Da man har mange grafiske muligheter med HTML5 Canvas (2d eller 3d...).
