@@ -44,7 +44,7 @@ body    {
 }
 
 .firstUL li    {
-    background: transparent url(images/link_sprite_img.jpg) no-repeat scroll -5 -5 ;
+    background: transparent url(link_sprite_img.jpg) no-repeat scroll 0 0;
     display: inline;       
     font-family: 'Arial', Verdana, Tahoma;
     font-size: 16pt;
@@ -57,7 +57,7 @@ body    {
 }
 
 .firstUL li.selected    {
-    background: transparent url(images/link_sprite_img.jpg) no-repeat scroll -5 -80 ;
+    background: transparent url(link_sprite_img.jpg) no-repeat scroll 0px -57px;
     color: #ffffff;
     font-weight: bold;
 }
